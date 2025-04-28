@@ -1,14 +1,24 @@
-# 🚀 About Me
-💼 I'm a self-taught passionate **Full Stack Developer** and **Linux Enthusiast** from India 🇮🇳  
-🔭 Currently exploring **Backend Development**, **DevOps**, and **Cybersecurity**.  
-❤️ I started programming because of my love for **Linux** and aspire to contribute to major open-source projects in the future.  
-🌱 Always curious, always learning — building skills in **DevOps**, **Ethical Hacking**, and **Cloud Computing**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Adarsh+Singh+%F0%9F%91%8B;Frontend+Dev+who+loves+Linux+%F0%9F%90%A7;Aspiring+Backend+Engineer+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+in+Making!+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 ---
 
-# 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh_pheonix_/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-singh-412298273/) 
+# 💫 About Me:
+- 🔥 Self-taught Frontend Developer | Backend Enthusiast | DevOps Learner
+- 🎓 B.Tech 3rd Year Student @ **Parul University**, Vadodara
+- 🐧 Linux lover & Future Open Source Contributor
+- 🌱 Currently learning **Backend Development**, **DevOps**, and **Ethical Hacking**
+- 🚀 Ready to collaborate on exciting open-source and freelance projects
+
+---
+
+## 🌐 Connect with me:
+<p align="center">
+  <a href="https://www.instagram.com/adarsh_pheonix_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/adarsh-singh-412298273/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://adarshpheonixportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+</p>
 
 ---
 
@@ -56,6 +66,17 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📂 Featured Projects:
+| Project | Tech Stack | Description |
+|:-------|:----------|:------------|
+| **Portfolio Website** | React, TailwindCSS, Vercel | My personal portfolio showcasing skills and projects. |
+| **Authentication System** | Django, MySQL | User authentication system with email verification. |
+| **Linux Automation Scripts** | Bash, PowerShell | Scripts to automate daily Linux tasks.|
+
+*(More projects coming soon... 🚀)*
 
 ---
 
