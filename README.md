@@ -69,33 +69,6 @@
 
 ---
 
-## 📂 Featured Projects:
-| Project | Tech Stack | Description |
-|:-------|:----------|:------------|
-| **Portfolio Website** | React, TailwindCSS, Vercel | My personal portfolio showcasing skills and projects. |
-| **Authentication System** | Django, MySQL | User authentication system with email verification. |
-| **Linux Automation Scripts** | Bash, PowerShell | Scripts to automate daily Linux tasks.|
-
-*(More projects coming soon... 🚀)*
-
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=adarshpheonix2810&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=adarshpheonix2810&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpheonix2810&theme=dark&hide_border=false&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adarshpheonix2810&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
----
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adarshpheonix2810&limit=5&theme=radical&combine_all_yearly_contributions=true)
