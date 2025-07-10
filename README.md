@@ -68,14 +68,3 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adarshpheonix2810&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-# 📈 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=adarshpheonix2810&icon=2&color=1)](https://visitcount.itsvg.in)
-
----
