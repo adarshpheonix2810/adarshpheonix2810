@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 - 🔥 Self-taught Frontend Developer | Backend Enthusiast | DevOps Learner
-- 🎓 B.Tech 3rd Year Student @ **Parul University**, Vadodara
+- 🎓 B.Tech 4th Year Student @ **Parul University**, Vadodara
 - 🐧 Linux lover & Future Open Source Contributor
 - 🌱 Currently learning **Backend Development**, **DevOps**, and **Ethical Hacking**
 - 🚀 Ready to collaborate on exciting open-source and freelance projects
